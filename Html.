@@ -1,0 +1,79 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Travel One - Explore The World</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+  <a class="logo" href="#">TRAVEL<span>ONE.</span></a>
+  <nav>
+    <a href="#home">Home</a>
+    <a href="#destinations">Destinations</a>
+    <a href="#experiences">Experiences</a>
+    <a href="#about">About</a>
+  </nav>
+  <a class="nav-btn" href="#destinations">Explore Now</a>
+</header>
+
+<section class="hero" id="home">
+  <div class="hero-content">
+    <p class="tag">YOUR JOURNEY STARTS HERE</p>
+    <h1>Explore The World.<br><span>Live Your Story.</span></h1>
+    <p>Discover beautiful destinations, meet new people,
+    experience different cultures and create unforgettable memories.</p>
+    <a class="btn" href="#destinations">Start Exploring →</a>
+  </div>
+</section>
+
+<section class="section" id="destinations">
+  <p class="tag">DISCOVER THE WORLD</p>
+  <h2>Popular Destinations</h2>
+  <div class="grid">
+    <div class="card">
+      <img src="https://images.unsplash.com/photo-1524492412937-b28074a5d7da?w=800" alt="India">
+      <h3>India</h3><p>Culture, history and adventure.</p>
+    </div>
+    <div class="card">
+      <img src="https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=800" alt="Mountains">
+      <h3>Mountains</h3><p>Find peace in nature.</p>
+    </div>
+    <div class="card">
+      <img src="https://images.unsplash.com/photo-1519046904884-53103b34b206?w=800" alt="Beach">
+      <h3>Beaches</h3><p>Discover beautiful coastlines.</p>
+    </div>
+  </div>
+</section>
+
+<section class="section experiences" id="experiences">
+  <p class="tag">MORE THAN JUST TRAVEL</p>
+  <h2>Explore Your Opportunities</h2>
+  <div class="grid">
+    <div class="feature"><h3>✈ Travel & Explore</h3><p>Discover new places and hidden gems.</p></div>
+    <div class="feature"><h3>♥ Volunteering</h3><p>Help communities and make a difference.</p></div>
+    <div class="feature"><h3>⌂ House Sitting</h3><p>Explore house-sitting opportunities.</p></div>
+    <div class="feature"><h3>💼 Travel Jobs</h3><p>Discover work opportunities while travelling.</p></div>
+    <div class="feature"><h3>🏕 Adventures</h3><p>Find exciting outdoor experiences.</p></div>
+    <div class="feature"><h3>📖 Travel Stories</h3><p>Read and share your travel experiences.</p></div>
+  </div>
+</section>
+
+<section class="banner" id="about">
+  <h2>Don't Just Dream About Travel.</h2>
+  <h2>Make It Happen.</h2>
+  <p>One world. Endless possibilities. One Travel One.</p>
+  <a class="btn" href="#home">Explore More →</a>
+</section>
+
+<footer>
+  <h2>TRAVEL ONE.</h2>
+  <p>Explore thoughtfully. Travel freely.</p>
+  <p>© 2026 Travel One. All rights reserved.</p>
+</footer>
+
+</body>
+</html>
